@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="VeloCITY.com" resolutions="1x" timestamp="1618435734579">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="_____.css" crc="4074498317" ref="форум"/>
+    <file name="index.css" crc="3991146791" ref="index"/>
+    <file name="___________.css" crc="4112773808" ref="регистрация"/>
+    <file name="_____1.css" crc="3866658396" ref="карта"/>
+    <file name="_______.css" crc="282469115" ref="новости"/>
+  </folder>
+  <folder name="assets">
+    <file name="velocityline1.jpg" crc="4194027868" seo="true" mt="1602426770000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:новости:регистрация:форум:карта"/>
+    <file name="museutils.js" crc="3939489907" ref="index:новости:регистрация:форум:карта"/>
+    <file name="whatinput.js" crc="86476730" ref="index:новости:регистрация:форум:карта"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:новости:регистрация:форум:карта"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:новости:регистрация:форум:карта"/>
+    <file name="require.js" crc="4177726516" ref="index:новости:регистрация:форум:карта"/>
+    <file name="webpro.js" crc="3856315280" ref="новости"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="новости"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="новости"/>
+    <file name="touchswipe.js" crc="3888935200" ref="новости"/>
+  </folder>
+  <folder name="images">
+    <file name="velocityline1-crop-u117.jpg" crc="4089557597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u133-10.png" crc="3798527107" ref="index"/>
+    <file name="755530115767831-crop-u756.jpg" crc="464394103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u244-4.png" crc="492942318" ref="index"/>
+    <file name="u257-5.png" crc="4098273408" ref="index"/>
+    <file name="volodorojki-spb-5-crop-u782.jpg" crc="64109787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veloo-1024x682-crop-u808.jpg" crc="3788100282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vzati_mvqhc-crop-u795.jpg" crc="4052117753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dovile-ramoskaite-x8rdsfn2dpy-unsplash-crop-u821.jpg" crc="175760169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="velocityline1.jpg" crc="79867022" seo="true" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="road.jpg" crc="195445294" seo="true" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="3870647156" seo="true" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="460649152" seo="true" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="velocityline1-crop-u569.jpg" crc="4089557597" seo="true" ref="регистрация">
+      <caption webpage="регистрация" alt=""/>
+    </file>
+    <file name="velocityline1-crop-u623.jpg" crc="4089557597" seo="true" ref="форум">
+      <caption webpage="форум" alt=""/>
+    </file>
+    <file name="velocityline1-crop-u663.jpg" crc="4089557597" seo="true" ref="карта">
+      <caption webpage="карта" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4104830221" seo="true" mt="1618435696942" redirect="true"/>
+  <file name="новости.html" crc="12499080" seo="true" mt="1609681935867" redirect="true"/>
+  <file name="регистрация.html" crc="452965799" seo="true" mt="1618222329070" redirect="true"/>
+  <file name="форум.html" crc="155051057" seo="true" mt="1609774405599" redirect="true"/>
+  <file name="карта.html" crc="100083253" seo="true" mt="1618222329074" redirect="true"/>
+</manifest>

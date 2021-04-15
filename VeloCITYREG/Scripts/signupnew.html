@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial scale = 1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Форма регистрации</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/VeloCITYREG/css/style.css">
+    <style>
+    hr{
+    border: none;
+    background-color: red;
+    color: black;
+    height: 3px;
+    }
+    </style>
+  </head>
+  <body>
+    <style>
+    body{
+        margin: 30px;
+      }
+    </style>
+    <dic class="container mt-4">
+      <h1 style="color:#7CFC00">Форма регистрации</h1>
+      <form action="form/check.php" method="post">
+        <input type="text" class="form-control" name="email"
+        id="email" placeholder="Введите email"><br>
+        <input type="text" class="form-control" name="name"
+        id="name" placeholder="Введите имя"><br>
+        <input type="password" class="form-control" name="pass"
+        id="pass" placeholder="Введите пароль"><br>
+        <button class="btn btn-success"
+        type="submit">Зарегистрироваться</button>
+      </form>
+    </div>
+  </body>
+</html>
